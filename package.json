@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "grunt-lib-contrib": "~0.6.1",
-    "less": "https://github.com/zfedoran/less.js.git"
+    "less": "ssh+git://github.com/zfedoran/less.js.git"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.2",
