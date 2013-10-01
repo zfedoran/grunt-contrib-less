@@ -27,7 +27,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "less": "~1.4.0",
+    "less": "git://github.com/zfedoran/less.js.git",
     "grunt-lib-contrib": "~0.6.1"
   },
   "devDependencies": {
